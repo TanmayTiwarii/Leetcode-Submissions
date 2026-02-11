@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -32,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
