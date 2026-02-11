@@ -29,8 +29,12 @@ public:
             return seg[root];
         }
         int mid=(low+high)/2;
-        seg[root*2+1] = change(index,val,root*2+1,low,mid);
-        seg[root*2+2] = change(index,val,root*2+2,mid+1,high);
+        if(index<=mid){
+            seg[root*2+1] = change(index,val,root*2+1,low,mid);
+        }
+        else{
+            seg[root*2+2] = change(index,val,root*2+2,mid+1,high);
+        }
         seg[root] = seg[root*2+2] + seg[root*2+1];
         return seg[root];
     }
