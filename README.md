@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0799-champagne-tower](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0799-champagne-tower) |
 ## Design
 |  |
 | ------- |
