@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
