@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
 | ------- |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
