@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
