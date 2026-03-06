@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
