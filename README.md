@@ -82,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -120,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
