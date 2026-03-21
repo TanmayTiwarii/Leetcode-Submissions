@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0799-champagne-tower](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0799-champagne-tower) |
 ## Design
 |  |
@@ -85,17 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
@@ -151,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
