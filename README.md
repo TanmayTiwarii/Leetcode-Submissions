@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 <!---LeetCode Topics End-->
