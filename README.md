@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
