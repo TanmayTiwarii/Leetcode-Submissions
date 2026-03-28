@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0741-cherry-pickup) |
 | [0769-max-chunks-to-make-sorted](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0741-cherry-pickup](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0741-cherry-pickup) |
 | [0799-champagne-tower](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0799-champagne-tower) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Design
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0741-cherry-pickup) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
