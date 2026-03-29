@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0312-burst-balloons) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -217,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
