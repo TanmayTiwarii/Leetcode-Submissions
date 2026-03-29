@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0312-burst-balloons) |
@@ -202,9 +204,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0769-max-chunks-to-make-sorted](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0769-max-chunks-to-make-sorted](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
