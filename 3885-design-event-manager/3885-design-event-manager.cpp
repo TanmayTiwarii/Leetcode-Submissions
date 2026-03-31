@@ -1,25 +1,17 @@
 class EventManager {
 public:
-    struct cmp {
-        bool operator()(pair<int,int> &a, pair<int,int> &b) {
-            if (a.first == b.first) {
-                return a.second > b.second;  // ascending second
-            }
-            return a.first < b.first;        // descending first
-        }
-    };
     map<int,int> latest;
-    priority_queue<pair<int,int>, vector<pair<int,int>>, cmp> pq;
+    priority_queue<pair<int,int>> pq;
     EventManager(vector<vector<int>>& events) {
         for(auto it:events){
-            pq.push({it[1],it[0]});
-            latest[it[0]]=it[1];
+            pq.push({it[1],-it[0]});
+            latest[-it[0]]=it[1];
         }
     }
     
     void updatePriority(int eventId, int newPriority) {
-        pq.push({newPriority,eventId});
-        latest[eventId]=newPriority;
+        pq.push({newPriority,-eventId});
+        latest[-eventId]=newPriority;
     }
     
     int pollHighest() {
@@ -38,7 +30,7 @@ public:
         auto [p,e] = pq.top();
         latest[e]=-1;
         pq.pop();
-        return e;
+        return -1*e;
     }
 };
 
