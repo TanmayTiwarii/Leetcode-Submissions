@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
