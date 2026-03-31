@@ -1,6 +1,6 @@
 class EventManager {
 public:
-    map<int,int> latest;
+    unordered_map<int,int> latest;
     priority_queue<pair<int,int>> pq;
     EventManager(vector<vector<int>>& events) {
         for(auto it:events){
