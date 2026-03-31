@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3366-minimum-array-sum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3366-minimum-array-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0741-cherry-pickup) |
 | [0799-champagne-tower](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0799-champagne-tower) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3366-minimum-array-sum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3366-minimum-array-sum) |
 ## Design
 |  |
 | ------- |
