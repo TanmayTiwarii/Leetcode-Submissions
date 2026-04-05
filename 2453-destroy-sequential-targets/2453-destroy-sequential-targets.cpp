@@ -1,7 +1,7 @@
 class Solution {
 public:
     int destroyTargets(vector<int>& nums, int space) {
-        map<int,int> count;
+        unordered_map<int,int> count;
         for(auto it:nums){
             count[it%space]++;
 
