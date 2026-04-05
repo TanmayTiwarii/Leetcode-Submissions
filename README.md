@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2453-destroy-sequential-targets](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2453-destroy-sequential-targets) |
 | [2751-robot-collisions](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2453-destroy-sequential-targets](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2453-destroy-sequential-targets) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2453-destroy-sequential-targets](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2453-destroy-sequential-targets) |
 ## Greedy
 |  |
 | ------- |
