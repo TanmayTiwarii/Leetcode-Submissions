@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [2069-walking-robot-simulation-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Depth-First Search
