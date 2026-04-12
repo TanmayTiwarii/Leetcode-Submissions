@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0343-integer-break) |
 | [0741-cherry-pickup](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0741-cherry-pickup) |
 | [0799-champagne-tower](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0799-champagne-tower) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3366-minimum-array-sum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3366-minimum-array-sum) |
 ## Design
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Bit Manipulation
