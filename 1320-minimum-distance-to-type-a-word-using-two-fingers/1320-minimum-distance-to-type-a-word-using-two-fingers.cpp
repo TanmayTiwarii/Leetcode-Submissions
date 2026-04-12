@@ -1,7 +1,7 @@
 class Solution {
 public:
     int dp[301][27][27];
-    int func(string &word, int i, int l1, int l2,map<int,pair<int,int>> &m){
+    int func(string &word, int i, int l1, int l2,unordered_map<int,pair<int,int>> &m){
         if(i==word.size()){
             return 0;
         }
@@ -21,7 +21,7 @@ public:
     }
     int minimumDistance(string word) {
         memset(dp,-1,sizeof(dp));
-        map<int,pair<int,int>> m;
+        unordered_map<int,pair<int,int>> m;
         int temp=0;
         for(int i=0;i<5;i++){
             for(int j=0;j<6;j++){
