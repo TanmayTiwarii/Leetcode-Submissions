@@ -29,9 +29,9 @@ public:
             }
         }
         int ans = INT_MAX;
-        for(int i=0;i<26;i++){
-            for(int j=0;j<26;j++){
-                ans=min(ans,func(word,0,i,j,m));
+        for(int i=0;i<word.size();i++){
+            for(int j=i+1;j<word.size();j++){
+                ans=min(ans,func(word,0,word[i]-'A',word[j]-'A',m));
             }
         }
         return ans;
