@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3366-minimum-array-sum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3366-minimum-array-sum) |
+| [3488-closest-equal-element-queries](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2453-destroy-sequential-targets](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2453-destroy-sequential-targets) |
+| [3488-closest-equal-element-queries](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [3488-closest-equal-element-queries](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3488-closest-equal-element-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
