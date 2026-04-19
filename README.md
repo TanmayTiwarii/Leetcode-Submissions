@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2453-destroy-sequential-targets](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2453-destroy-sequential-targets) |
 | [2751-robot-collisions](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3488-closest-equal-element-queries) |
 ## Dynamic Programming
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Queue
 |  |
 | ------- |
