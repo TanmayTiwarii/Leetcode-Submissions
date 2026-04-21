@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
