@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2453-destroy-sequential-targets](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2453-destroy-sequential-targets) |
 | [2615-sum-of-distances](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2751-robot-collisions) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Tree
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Shortest Path
 |  |
 | ------- |
