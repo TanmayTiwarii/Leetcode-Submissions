@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2833-furthest-point-from-origin](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2453-destroy-sequential-targets](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2453-destroy-sequential-targets) |
+| [2833-furthest-point-from-origin](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
 | ------- |
