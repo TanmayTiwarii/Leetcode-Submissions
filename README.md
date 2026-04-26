@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0741-cherry-pickup) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Minimum Spanning Tree
