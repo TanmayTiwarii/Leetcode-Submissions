@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3366-minimum-array-sum](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3366-minimum-array-sum) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
