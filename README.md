@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0396-rotate-function](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0733-flood-fill](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0741-cherry-pickup) |
 | [0769-max-chunks-to-make-sorted](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0741-cherry-pickup](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0741-cherry-pickup) |
 | [0799-champagne-tower](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0343-integer-break](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TanmayTiwarii/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
